@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nguyen Duy Tiep 💻</h1>  
+<h1 align="center">Hi, I'm Nguyen Duy Tiep</h1>  
 
 <h2 align="center" style="margin-bottom: 0; padding-bottom: 0;">Languages:</h2>  
 
