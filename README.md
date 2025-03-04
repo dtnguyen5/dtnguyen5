@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nguyen Duy Tiep 💻</h1>  
 
-<h2 align="center" style="border-bottom: none;">Languages:</h2>  
+<h2 align="center" style="margin-bottom: 0; padding-bottom: 0;">Languages:</h2>  
 
 <p align="center">
     <!-- Jazyky -->
@@ -12,7 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
 </p>  
 
-<h2 align="center" style="border-bottom: none;">Tools:</h2>  
+<h2 align="center" style="margin-bottom: 0; padding-bottom: 0;">Tools:</h2>  
 
 <p align="center">
     <!-- Nástroje -->
