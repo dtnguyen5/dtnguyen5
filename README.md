@@ -16,10 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
 </p>  
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%" alt="divider">
-</p>
-
 <h2 align="center">Tools:</h2>  
 
 <p align="center">
