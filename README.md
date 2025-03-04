@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nguyen Duy Tiep 💻</h1>  
 
-<h2 align="center" style="margin-bottom: 0; padding-bottom: 0; border-bottom: none">Languages:</h2>  
+<h2 align="center" style="margin-bottom: 0; padding-bottom: 0; ">Languages:</h2>  
 
 <p align="center">
     <!-- Jazyky -->
